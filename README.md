@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jonghwan83/jonghwan83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
